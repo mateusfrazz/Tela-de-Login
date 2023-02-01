@@ -8,4 +8,4 @@ HTML<br>
 CSS
 
 <h2>Link do Projeto :<h2> 📌
-https://courageous-licorice-d675ec.netlify.app
+https://relaxed-lebkuchen-654155.netlify.app
